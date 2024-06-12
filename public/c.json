@@ -1,0 +1,524 @@
+{
+    "data": [
+        {
+            "id": "9",
+            "name": "Abdulla Al-Salem",
+            "value": "abdulla_alsalem"
+        },
+        {
+            "id": "123",
+            "name": "Abdullah Mubarak Al-Sabah",
+            "value": "abdulla_almubarak"
+        },
+        {
+            "id": "134",
+            "name": "Abu Ftaira",
+            "value": "abuftaira"
+        },
+        {
+            "id": "146",
+            "name": "Abu Halifa",
+            "value": "abuhalifa"
+        },
+        {
+            "id": "138",
+            "name": "Abu Hassaniah",
+            "value": "abu_hassaniah"
+        },
+        {
+            "id": "14",
+            "name": "Adailiya",
+            "value": "adailiya"
+        },
+        {
+            "id": "136",
+            "name": "Al Masayel",
+            "value": "masayel"
+        },
+        {
+            "id": "122",
+            "name": "Al shadadyia Industrial",
+            "value": "shedadiya"
+        },
+        {
+            "id": "130",
+            "name": "Al-Adan",
+            "value": "adan"
+        },
+        {
+            "id": "147",
+            "name": "Al-Fintas",
+            "value": "alfuntas"
+        },
+        {
+            "id": "148",
+            "name": "Al-Fnaitees",
+            "value": "alfunaitees"
+        },
+        {
+            "id": "133",
+            "name": "Al-Qurain",
+            "value": "qurain"
+        },
+        {
+            "id": "132",
+            "name": "Al-Qusour",
+            "value": "qosour"
+        },
+        {
+            "id": "105",
+            "name": "Al-Siddiq",
+            "value": "saddeeq"
+        },
+        {
+            "id": "151",
+            "name": "Ali Subah Al-Salem",
+            "value": "ali_sabah_alsalem"
+        },
+        {
+            "id": "109",
+            "name": "Andalus",
+            "value": "andalus"
+        },
+        {
+            "id": "116",
+            "name": "Ardhiya",
+            "value": "ardiya"
+        },
+        {
+            "id": "110",
+            "name": "Ashbeliah",
+            "value": "ashbeliyah"
+        },
+        {
+            "id": "99",
+            "name": "Bayan",
+            "value": "bayan"
+        },
+        {
+            "id": "5",
+            "name": "Bnaid Al-Qar",
+            "value": "bniad_alqar"
+        },
+        {
+            "id": "7",
+            "name": "Daiya",
+            "value": "daaya"
+        },
+        {
+            "id": "6",
+            "name": "Dasma",
+            "value": "dasma"
+        },
+        {
+            "id": "1",
+            "name": "Dasman",
+            "value": "dasman"
+        },
+        {
+            "id": "142",
+            "name": "Dhaher",
+            "value": "aldhahar"
+        },
+        {
+            "id": "25",
+            "name": "Doha",
+            "value": "doha"
+        },
+        {
+            "id": "164",
+            "name": "East Ahmadi",
+            "value": "east_ahmadi"
+        },
+        {
+            "id": "158",
+            "name": "Egaila",
+            "value": "oqaila"
+        },
+        {
+            "id": "156",
+            "name": "Fahad Al-Ahmad",
+            "value": "fahad_alahmad"
+        },
+        {
+            "id": "150",
+            "name": "Fahaheel",
+            "value": "fehaheel"
+        },
+        {
+            "id": "11",
+            "name": "Faiha",
+            "value": "faiha"
+        },
+        {
+            "id": "112",
+            "name": "Farwaniya",
+            "value": "farwaniya"
+        },
+        {
+            "id": "113",
+            "name": "Firdous",
+            "value": "firdous"
+        },
+        {
+            "id": "23",
+            "name": "Ghornata",
+            "value": "ghurnata"
+        },
+        {
+            "id": "144",
+            "name": "Hadiya",
+            "value": "hadiya"
+        },
+        {
+            "id": "92",
+            "name": "Hawalli",
+            "value": "hawalli"
+        },
+        {
+            "id": "100",
+            "name": "Hitteen",
+            "value": "heteen"
+        },
+        {
+            "id": "27",
+            "name": "Jaber Al-Ahmad",
+            "value": "jaber_alahmad"
+        },
+        {
+            "id": "157",
+            "name": "Jaber Al-Ali",
+            "value": "jaber_alali"
+        },
+        {
+            "id": "96",
+            "name": "Jabriya",
+            "value": "jabriya"
+        },
+        {
+            "id": "120",
+            "name": "Jleeb Al-Shiyoukh",
+            "value": "jeleeb_alshuyoukh"
+        },
+        {
+            "id": "111",
+            "name": "Khaitan",
+            "value": "khaitan"
+        },
+        {
+            "id": "15",
+            "name": "Khaldiya",
+            "value": "khaldiya"
+        },
+        {
+            "id": "16",
+            "name": "Kifan",
+            "value": "kaifan"
+        },
+        {
+            "id": "159",
+            "name": "Mahboula",
+            "value": "mahboula"
+        },
+        {
+            "id": "145",
+            "name": "Mangaf",
+            "value": "mangaf"
+        },
+        {
+            "id": "8",
+            "name": "Mansouriya",
+            "value": "mansouriya"
+        },
+        {
+            "id": "131",
+            "name": "Messila",
+            "value": "maseelah"
+        },
+        {
+            "id": "173",
+            "name": "Middle of Ahmadi",
+            "value": "middle_of_ahmadi"
+        },
+        {
+            "id": "3",
+            "name": "Mirqab",
+            "value": "murgab"
+        },
+        {
+            "id": "97",
+            "name": "Mishrif",
+            "value": "mushref"
+        },
+        {
+            "id": "104",
+            "name": "Mubarak Al-Abdullah",
+            "value": "mubarak_abdulla_aljabe"
+        },
+        {
+            "id": "135",
+            "name": "Mubarak Al-Kabeer",
+            "value": "mubarak_alkabeer"
+        },
+        {
+            "id": "48",
+            "name": "Naeem",
+            "value": "naeem"
+        },
+        {
+            "id": "26",
+            "name": "Nahda",
+            "value": "nahda"
+        },
+        {
+            "id": "46",
+            "name": "Nasseem",
+            "value": "naseem"
+        },
+        {
+            "id": "162",
+            "name": "North Ahmadi",
+            "value": "north_ahmadi"
+        },
+        {
+            "id": "57",
+            "name": "Northwest Sulaibikhat",
+            "value": "north_west_sulaibikhat"
+        },
+        {
+            "id": "10",
+            "name": "Nuzha",
+            "value": "nuzha"
+        },
+        {
+            "id": "45",
+            "name": "Old Jahra",
+            "value": "old_jahra"
+        },
+        {
+            "id": "184",
+            "name": "Om Alhaiman",
+            "value": "om_alhaiman"
+        },
+        {
+            "id": "115",
+            "name": "Omariya",
+            "value": "qmariya"
+        },
+        {
+            "id": "42",
+            "name": "Oyoun",
+            "value": "oyoun"
+        },
+        {
+            "id": "17",
+            "name": "Qadsiya",
+            "value": "qadsiya"
+        },
+        {
+            "id": "28",
+            "name": "Qairawan",
+            "value": "qairawan"
+        },
+        {
+            "id": "43",
+            "name": "Qasr",
+            "value": "qasr"
+        },
+        {
+            "id": "4",
+            "name": "Qibla",
+            "value": "qibla"
+        },
+        {
+            "id": "18",
+            "name": "Qortuba",
+            "value": "qurtoba"
+        },
+        {
+            "id": "118",
+            "name": "Rabiya",
+            "value": "rabiya"
+        },
+        {
+            "id": "22",
+            "name": "Rai",
+            "value": "rai"
+        },
+        {
+            "id": "13",
+            "name": "Rawda",
+            "value": "rawda"
+        },
+        {
+            "id": "119",
+            "name": "Rehab",
+            "value": "rehab"
+        },
+        {
+            "id": "117",
+            "name": "Riggai",
+            "value": "rigae"
+        },
+        {
+            "id": "143",
+            "name": "Riqqa",
+            "value": "rugga"
+        },
+        {
+            "id": "95",
+            "name": "Rumaithiya",
+            "value": "rumaithiya"
+        },
+        {
+            "id": "49",
+            "name": "Saad Al-Abdulla City",
+            "value": "saad_alabdulla"
+        },
+        {
+            "id": "166",
+            "name": "Sabah Al-Ahmad",
+            "value": "sabah_al_ahmad"
+        },
+        {
+            "id": "182",
+            "name": "Sabah Al-Ahmad 1",
+            "value": "sabah_al_ahmad_1"
+        },
+        {
+            "id": "179",
+            "name": "Sabah Al-Ahmad 2",
+            "value": "sabah_al_ahmad_2"
+        },
+        {
+            "id": "178",
+            "name": "Sabah Al-Ahmad 3",
+            "value": "sabah_al_ahmad_3"
+        },
+        {
+            "id": "180",
+            "name": "Sabah Al-Ahmad 4",
+            "value": "sabah_al_ahmad_4"
+        },
+        {
+            "id": "177",
+            "name": "Sabah Al-Ahmad 6",
+            "value": "sabah_al_ahmad_6"
+        },
+        {
+            "id": "114",
+            "name": "Sabah Al-Nasser",
+            "value": "sabah_alnaser"
+        },
+        {
+            "id": "129",
+            "name": "Sabah Al-Salem University City",
+            "value": "sabah_alsalem"
+        },
+        {
+            "id": "141",
+            "name": "Sabah Al-Salim",
+            "value": "sabah_alahmad"
+        },
+        {
+            "id": "149",
+            "name": "Sabahiya",
+            "value": "sabahiya"
+        },
+        {
+            "id": "101",
+            "name": "Salam",
+            "value": "salam"
+        },
+        {
+            "id": "94",
+            "name": "Salmiya",
+            "value": "salmiya"
+        },
+        {
+            "id": "98",
+            "name": "Salwa",
+            "value": "salwa"
+        },
+        {
+            "id": "93",
+            "name": "Shaab",
+            "value": "shaab"
+        },
+        {
+            "id": "12",
+            "name": "Shamiya",
+            "value": "shamiya"
+        },
+        {
+            "id": "2",
+            "name": "Sharq",
+            "value": "sharq"
+        },
+        {
+            "id": "103",
+            "name": "Shuhada",
+            "value": "shuhada"
+        },
+        {
+            "id": "21",
+            "name": "Shuwaikh",
+            "value": "shuwaikh"
+        },
+        {
+            "id": "163",
+            "name": "South Ahmadi",
+            "value": "south_ahmadi"
+        },
+        {
+            "id": "161",
+            "name": "South-Sabahiya",
+            "value": "south_sabahiya"
+        },
+        {
+            "id": "24",
+            "name": "Sulaibikhat",
+            "value": "sulaibikhat"
+        },
+        {
+            "id": "51",
+            "name": "Sulaibiya",
+            "value": "sulaibiya"
+        },
+        {
+            "id": "19",
+            "name": "Surra",
+            "value": "durrah"
+        },
+        {
+            "id": "47",
+            "name": "Taima",
+            "value": "taimaa"
+        },
+        {
+            "id": "41",
+            "name": "Waha",
+            "value": "waha"
+        },
+        {
+            "id": "127",
+            "name": "West Abdullah Al-Mubarak",
+            "value": "west_abdullah_al_mubarak"
+        },
+        {
+            "id": "137",
+            "name": "West Abu Ftirah Hirafyia",
+            "value": "west_abu_ftirah_hirafiya"
+        },
+        {
+            "id": "20",
+            "name": "Yarmouk",
+            "value": "yarmouk"
+        },
+        {
+            "id": "102",
+            "name": "Zahra",
+            "value": "zahraa"
+        }
+    ]
+}
